@@ -105,7 +105,6 @@ The foundation supports expansion into:
 
 ### Database Integration
 
-### Nutritional Information
 
 
 ## 📊 Design Benefits
